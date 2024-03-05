@@ -1,2 +1,1 @@
-# OSINT-WEBSITE
-OSINT FRAME WORK WEBSITE MODEL WITH GOOGLE DORKING AND LOOKUP , Active and Passive Recon Website
+Developed to enhance open-source intelligence capabilities for cybersecurity investigations, aiding in threat intelligence gathering and analysis.
